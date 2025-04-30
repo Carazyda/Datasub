@@ -1,0 +1,22 @@
+{
+  "name": "datasub",
+  "version": "1.0.0",
+  "description": "test task for datasub",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carazyda/Datasub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carazyda/Datasub/issues"
+  },
+  "homepage": "https://github.com/Carazyda/Datasub#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
